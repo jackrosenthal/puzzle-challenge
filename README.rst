@@ -53,8 +53,8 @@ will keep solvers engaged when they are first starting.
 
 You're going to want to make sure the competition has a good balance of
 obscurity and effort-based puzzles. Too much effort-based puzzles, and you'll
-just get the people who dedicate a lot of time to the puzzles in first place,
-and if too much obscurity-based puzzles, people will become loose engagement.
+just get the people who dedicate a lot of time who win, and if too much
+obscurity-based puzzles, people will loose engagement.
 
 Considerations
 ~~~~~~~~~~~~~~
