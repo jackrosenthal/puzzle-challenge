@@ -1,0 +1,2748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="255.88672pt"
+   height="255.89062pt"
+   viewBox="0 0 255.88672 255.89063"
+   version="1.2"
+   id="svg969"
+   sodipodi:docname="vulcan-answer.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:export-filename="/home/jrosenth/Dropbox/puzzles/fall2018/tw-data/vulcan-answer.png"
+   inkscape:export-xdpi="123.212"
+   inkscape:export-ydpi="123.212">
+  <metadata
+     id="metadata973">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="2091"
+     id="namedview971"
+     showgrid="false"
+     inkscape:zoom="1.4810127"
+     inkscape:cx="318.25"
+     inkscape:cy="-92.551029"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg969" />
+  <defs
+     id="defs70">
+    <g
+       id="g68">
+      <symbol
+         overflow="visible"
+         id="glyph0-0"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="M 1.53125,0 V -7.640625 H 7.640625 V 0 Z m 0.1875,-0.1875 H 7.453125 V -7.453125 H 1.71875 Z m 0,0"
+           id="path2"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-1"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="M -0.015625,0 3.34375,-8.75 h 1.25 L 8.171875,0 H 6.84375 L 5.828125,-2.65625 H 2.171875 L 1.21875,0 Z M 2.5,-3.59375 H 5.46875 L 4.5625,-6.015625 c -0.28125,-0.738281 -0.492188,-1.34375 -0.625,-1.8125 -0.117188,0.5625 -0.273438,1.121094 -0.46875,1.671875 z m 0,0"
+           id="path5"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-2"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 0.9375,0 v -8.75 h 3.296875 c 0.582031,0 1.03125,0.03125 1.34375,0.09375 0.425781,0.0625 0.785156,0.199219 1.078125,0.40625 0.289062,0.199219 0.523438,0.480469 0.703125,0.84375 0.175781,0.367188 0.265625,0.761719 0.265625,1.1875 0,0.75 -0.242188,1.382812 -0.71875,1.890625 C 6.4375,-3.816406 5.582031,-3.5625 4.34375,-3.5625 h -2.25 V 0 Z m 1.15625,-4.59375 h 2.265625 c 0.75,0 1.28125,-0.132812 1.59375,-0.40625 0.3125,-0.28125 0.46875,-0.675781 0.46875,-1.1875 0,-0.363281 -0.09375,-0.675781 -0.28125,-0.9375 C 5.960938,-7.382812 5.722656,-7.554688 5.421875,-7.640625 5.222656,-7.691406 4.863281,-7.71875 4.34375,-7.71875 h -2.25 z m 0,0"
+           id="path8"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-3"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 0.890625,0 v -8.75 h 1.15625 v 7.71875 h 4.3125 V 0 Z m 0,0"
+           id="path11"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-4"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="M 3.40625,0 V -3.703125 L 0.03125,-8.75 H 1.4375 l 1.734375,2.640625 C 3.484375,-5.617188 3.78125,-5.125 4.0625,-4.625 4.320312,-5.082031 4.640625,-5.597656 5.015625,-6.171875 L 6.703125,-8.75 h 1.34375 L 4.5625,-3.703125 V 0 Z m 0,0"
+           id="path14"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-5"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 0.546875,-2.8125 1.09375,-0.09375 C 1.691406,-2.46875 1.8125,-2.109375 2,-1.828125 c 0.1875,0.28125 0.476562,0.511719 0.875,0.6875 0.40625,0.167969 0.851562,0.25 1.34375,0.25 0.445312,0 0.835938,-0.0625 1.171875,-0.1875 0.34375,-0.132813 0.59375,-0.316406 0.75,-0.546875 0.164063,-0.226562 0.25,-0.476562 0.25,-0.75 0,-0.269531 -0.078125,-0.507812 -0.234375,-0.71875 C 6,-3.300781 5.738281,-3.472656 5.375,-3.609375 5.132812,-3.703125 4.613281,-3.84375 3.8125,-4.03125 3.007812,-4.226562 2.445312,-4.410156 2.125,-4.578125 c -0.417969,-0.21875 -0.730469,-0.488281 -0.9375,-0.8125 -0.199219,-0.320313 -0.296875,-0.6875 -0.296875,-1.09375 0,-0.4375 0.125,-0.847656 0.375,-1.234375 0.25,-0.382812 0.613281,-0.675781 1.09375,-0.875 0.476563,-0.195312 1.015625,-0.296875 1.609375,-0.296875 0.644531,0 1.210938,0.105469 1.703125,0.3125 0.5,0.210937 0.878906,0.515625 1.140625,0.921875 0.269531,0.40625 0.414062,0.867188 0.4375,1.375 L 6.140625,-6.203125 C 6.078125,-6.753906 5.875,-7.171875 5.53125,-7.453125 5.1875,-7.734375 4.679688,-7.875 4.015625,-7.875 3.304688,-7.875 2.789062,-7.742188 2.46875,-7.484375 2.15625,-7.234375 2,-6.925781 2,-6.5625 c 0,0.3125 0.113281,0.574219 0.34375,0.78125 0.21875,0.199219 0.796875,0.40625 1.734375,0.625 0.945313,0.210938 1.59375,0.390625 1.9375,0.546875 0.507813,0.242187 0.882813,0.542969 1.125,0.90625 0.25,0.355469 0.375,0.765625 0.375,1.234375 0,0.46875 -0.136719,0.914062 -0.40625,1.328125 -0.261719,0.40625 -0.640625,0.726563 -1.140625,0.953125 -0.5,0.2265625 -1.0625,0.34375 -1.6875,0.34375 -0.792969,0 -1.460938,-0.1171875 -2,-0.34375 C 1.75,-0.425781 1.332031,-0.773438 1.03125,-1.234375 0.726562,-1.703125 0.566406,-2.226562 0.546875,-2.8125 Z m 0,0"
+           id="path17"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-6"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="M 3.171875,0 V -7.71875 H 0.28125 V -8.75 h 6.9375 v 1.03125 H 4.328125 V 0 Z m 0,0"
+           id="path20"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-7"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 0.96875,0 v -8.75 h 6.328125 v 1.03125 H 2.125 v 2.6875 h 4.84375 v 1.015625 H 2.125 V -1.03125 H 7.5 V 0 Z m 0,0"
+           id="path23"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-8"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 0.9375,0 v -8.75 h 3.015625 c 0.675781,0 1.195313,0.042969 1.5625,0.125 0.5,0.117188 0.925781,0.324219 1.28125,0.625 0.457031,0.398438 0.800781,0.898438 1.03125,1.5 0.226563,0.605469 0.34375,1.296875 0.34375,2.078125 0,0.667969 -0.078125,1.257813 -0.234375,1.765625 C 7.78125,-2.144531 7.582031,-1.71875 7.34375,-1.375 7.101562,-1.039062 6.835938,-0.773438 6.546875,-0.578125 6.253906,-0.390625 5.90625,-0.242188 5.5,-0.140625 5.09375,-0.046875 4.625,0 4.09375,0 Z m 1.15625,-1.03125 h 1.875 c 0.570312,0 1.019531,-0.050781 1.34375,-0.15625 C 5.644531,-1.300781 5.910156,-1.453125 6.109375,-1.640625 6.378906,-1.921875 6.59375,-2.289062 6.75,-2.75 6.90625,-3.21875 6.984375,-3.78125 6.984375,-4.4375 6.984375,-5.351562 6.832031,-6.054688 6.53125,-6.546875 6.226562,-7.035156 5.863281,-7.363281 5.4375,-7.53125 5.125,-7.65625 4.625,-7.71875 3.9375,-7.71875 H 2.09375 Z m 0,0"
+           id="path26"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-9"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 0.59375,-4.265625 c 0,-1.445313 0.382812,-2.582031 1.15625,-3.40625 0.78125,-0.820313 1.789062,-1.234375 3.03125,-1.234375 0.800781,0 1.523438,0.195312 2.171875,0.578125 0.65625,0.386719 1.148437,0.929687 1.484375,1.625 0.34375,0.6875 0.515625,1.46875 0.515625,2.34375 0,0.886719 -0.183594,1.679687 -0.546875,2.375 -0.355469,0.699219 -0.859375,1.230469 -1.515625,1.59375 -0.65625,0.3671875 -1.367187,0.546875 -2.125,0.546875 -0.824219,0 -1.558594,-0.1953125 -2.203125,-0.59375 -0.648438,-0.40625 -1.136719,-0.953125 -1.46875,-1.640625 -0.335938,-0.6875 -0.5,-1.414063 -0.5,-2.1875 z m 1.1875,0.03125 c 0,1.054687 0.28125,1.882813 0.84375,2.484375 0.570312,0.605469 1.285156,0.90625 2.140625,0.90625 0.875,0 1.59375,-0.300781 2.15625,-0.90625 0.5625,-0.613281 0.84375,-1.488281 0.84375,-2.625 0,-0.707031 -0.121094,-1.328125 -0.359375,-1.859375 -0.242188,-0.53125 -0.59375,-0.941406 -1.0625,-1.234375 -0.460938,-0.289062 -0.980469,-0.4375 -1.5625,-0.4375 -0.8125,0 -1.515625,0.28125 -2.109375,0.84375 C 2.078125,-6.5 1.78125,-5.554688 1.78125,-4.234375 Z m 0,0"
+           id="path29"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-10"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 6.6875,-8.75 h 1.15625 v 5.0625 c 0,0.875 -0.101562,1.574219 -0.296875,2.09375 C 7.347656,-1.082031 6.988281,-0.660156 6.46875,-0.328125 5.945312,-0.00390625 5.265625,0.15625 4.421875,0.15625 3.597656,0.15625 2.925781,0.015625 2.40625,-0.265625 1.882812,-0.554688 1.507812,-0.96875 1.28125,-1.5 1.0625,-2.03125 0.953125,-2.757812 0.953125,-3.6875 V -8.75 H 2.125 v 5.046875 c 0,0.761719 0.066406,1.324219 0.203125,1.6875 0.144531,0.355469 0.390625,0.632813 0.734375,0.828125 0.34375,0.199219 0.757812,0.296875 1.25,0.296875 0.851562,0 1.460938,-0.191406 1.828125,-0.578125 C 6.503906,-1.851562 6.6875,-2.597656 6.6875,-3.703125 Z m 0,0"
+           id="path32"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-11"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 1.140625,0 v -8.75 h 1.15625 V 0 Z m 0,0"
+           id="path35"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-12"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 0.890625,0 v -8.75 h 1.15625 v 4.34375 L 6.390625,-8.75 H 7.96875 L 4.296875,-5.203125 8.125,0 H 6.59375 L 3.484375,-4.421875 2.046875,-3.03125 V 0 Z m 0,0"
+           id="path38"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-13"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 0.90625,0 v -8.75 h 1.75 l 2.0625,6.203125 c 0.1875,0.574219 0.328125,1 0.421875,1.28125 0.09375,-0.3125 0.25,-0.773437 0.46875,-1.390625 L 7.703125,-8.75 H 9.25 V 0 H 8.140625 V -7.328125 L 5.59375,0 H 4.546875 L 2.015625,-7.453125 V 0 Z m 0,0"
+           id="path41"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-14"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 0.984375,0 v -8.75 h 1.15625 v 3.59375 H 6.6875 V -8.75 H 7.84375 V 0 H 6.6875 V -4.125 H 2.140625 V 0 Z m 0,0"
+           id="path44"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-15"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 0.890625,0 v -8.75 h 3.28125 c 0.664063,0 1.203125,0.089844 1.609375,0.265625 0.40625,0.179687 0.722656,0.453125 0.953125,0.828125 0.226563,0.367188 0.34375,0.746094 0.34375,1.140625 0,0.375 -0.105469,0.730469 -0.3125,1.0625 -0.199219,0.335937 -0.5,0.601563 -0.90625,0.796875 C 6.378906,-4.5 6.78125,-4.234375 7.0625,-3.859375 7.351562,-3.484375 7.5,-3.039062 7.5,-2.53125 c 0,0.40625 -0.089844,0.789062 -0.265625,1.140625 -0.167969,0.355469 -0.382813,0.625 -0.640625,0.8125 -0.25,0.1875 -0.570312,0.335937 -0.953125,0.4375 C 5.253906,-0.046875 4.785156,0 4.234375,0 Z m 1.15625,-5.078125 H 3.9375 c 0.519531,0 0.890625,-0.03125 1.109375,-0.09375 C 5.335938,-5.253906 5.554688,-5.394531 5.703125,-5.59375 5.859375,-5.800781 5.9375,-6.0625 5.9375,-6.375 5.9375,-6.664062 5.863281,-6.921875 5.71875,-7.140625 5.582031,-7.359375 5.382812,-7.507812 5.125,-7.59375 c -0.25,-0.082031 -0.695312,-0.125 -1.328125,-0.125 h -1.75 z m 0,4.046875 h 2.1875 c 0.375,0 0.632813,-0.015625 0.78125,-0.046875 C 5.285156,-1.117188 5.507812,-1.195312 5.6875,-1.3125 5.863281,-1.425781 6.007812,-1.585938 6.125,-1.796875 c 0.113281,-0.21875 0.171875,-0.460937 0.171875,-0.734375 0,-0.332031 -0.085937,-0.617188 -0.25,-0.859375 -0.167969,-0.238281 -0.402344,-0.40625 -0.703125,-0.5 -0.292969,-0.101563 -0.714844,-0.15625 -1.265625,-0.15625 h -2.03125 z m 0,0"
+           id="path47"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-16"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="M 0.953125,0 V -8.75 H 4.84375 c 0.78125,0 1.367188,0.078125 1.765625,0.234375 0.40625,0.15625 0.726563,0.4375 0.96875,0.84375 0.25,0.398437 0.375,0.835937 0.375,1.3125 0,0.625 -0.203125,1.152344 -0.609375,1.578125 -0.398438,0.417969 -1.015625,0.683594 -1.859375,0.796875 0.3125,0.148437 0.546875,0.292969 0.703125,0.4375 0.332031,0.3125 0.648438,0.703125 0.953125,1.171875 L 8.671875,0 H 7.21875 L 6.0625,-1.8125 C 5.71875,-2.34375 5.4375,-2.742188 5.21875,-3.015625 5,-3.296875 4.800781,-3.492188 4.625,-3.609375 4.457031,-3.722656 4.285156,-3.800781 4.109375,-3.84375 3.972656,-3.875 3.753906,-3.890625 3.453125,-3.890625 H 2.125 V 0 Z M 2.125,-4.890625 h 2.484375 c 0.53125,0 0.941406,-0.050781 1.234375,-0.15625 0.300781,-0.113281 0.53125,-0.289063 0.6875,-0.53125 0.15625,-0.238281 0.234375,-0.5 0.234375,-0.78125 C 6.765625,-6.773438 6.613281,-7.113281 6.3125,-7.375 6.007812,-7.644531 5.535156,-7.78125 4.890625,-7.78125 H 2.125 Z m 0,0"
+           id="path50"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-17"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="M 0.9375,0 V -8.75 H 2.125 l 4.59375,6.875 V -8.75 H 7.828125 V 0 h -1.1875 L 2.046875,-6.875 V 0 Z m 0,0"
+           id="path53"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-18"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="M 3.4375,0 0.046875,-8.75 H 1.3125 l 2.265625,6.359375 c 0.1875,0.511719 0.34375,0.992187 0.46875,1.4375 0.125,-0.476563 0.28125,-0.957031 0.46875,-1.4375 L 6.875,-8.75 H 8.046875 L 4.625,0 Z m 0,0"
+           id="path56"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-19"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 7.1875,-3.0625 1.15625,0.28125 c -0.242188,0.960938 -0.679688,1.6875 -1.3125,2.1875 -0.636719,0.5 -1.40625,0.75 -2.3125,0.75 -0.9375,0 -1.703125,-0.1914062 -2.296875,-0.578125 C 1.828125,-0.804688 1.375,-1.363281 1.0625,-2.09375 0.757812,-2.820312 0.609375,-3.601562 0.609375,-4.4375 c 0,-0.914062 0.171875,-1.710938 0.515625,-2.390625 0.351562,-0.675781 0.847656,-1.1875 1.484375,-1.53125 0.644531,-0.351563 1.351563,-0.53125 2.125,-0.53125 0.875,0 1.609375,0.226563 2.203125,0.671875 0.601562,0.4375 1.019531,1.0625 1.25,1.875 L 7.046875,-6.078125 C 6.847656,-6.710938 6.554688,-7.175781 6.171875,-7.46875 5.785156,-7.757812 5.300781,-7.90625 4.71875,-7.90625 c -0.679688,0 -1.246094,0.164062 -1.703125,0.484375 C 2.566406,-7.097656 2.25,-6.664062 2.0625,-6.125 c -0.179688,0.542969 -0.265625,1.105469 -0.265625,1.6875 0,0.742188 0.109375,1.386719 0.328125,1.9375 0.21875,0.554688 0.554688,0.96875 1.015625,1.25 0.457031,0.273438 0.953125,0.40625 1.484375,0.40625 0.644531,0 1.191406,-0.1875 1.640625,-0.5625 0.445313,-0.375 0.753906,-0.925781 0.921875,-1.65625 z m 0,0"
+           id="path59"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-20"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="m 2.46875,0 -2.3125,-8.75 h 1.1875 l 1.328125,5.734375 c 0.132813,0.605469 0.253906,1.203125 0.359375,1.796875 0.226562,-0.9375 0.363281,-1.476562 0.40625,-1.625 L 5.09375,-8.75 H 6.484375 L 7.75,-4.3125 c 0.3125,1.09375 0.535156,2.125 0.671875,3.09375 0.113281,-0.550781 0.257813,-1.1875 0.4375,-1.90625 l 1.375,-5.625 h 1.15625 L 9,0 H 7.875 L 6.03125,-6.671875 C 5.882812,-7.222656 5.796875,-7.5625 5.765625,-7.6875 5.671875,-7.289062 5.582031,-6.953125 5.5,-6.671875 L 3.65625,0 Z m 0,0"
+           id="path62"
+           inkscape:connector-curvature="0" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="glyph0-21"
+         style="overflow:visible">
+        <path
+           style="stroke:none"
+           d="M 5.03125,-3.4375 V -4.453125 L 8.734375,-4.46875 v 3.25 c -0.5625,0.460938 -1.148437,0.804688 -1.75,1.03125 C 6.378906,0.0390625 5.757812,0.15625 5.125,0.15625 4.257812,0.15625 3.472656,-0.0234375 2.765625,-0.390625 2.066406,-0.765625 1.539062,-1.300781 1.1875,-2 0.832031,-2.695312 0.65625,-3.472656 0.65625,-4.328125 c 0,-0.851563 0.175781,-1.648437 0.53125,-2.390625 0.351562,-0.738281 0.863281,-1.285156 1.53125,-1.640625 0.664062,-0.351563 1.4375,-0.53125 2.3125,-0.53125 0.632812,0 1.207031,0.105469 1.71875,0.3125 0.507812,0.199219 0.90625,0.480469 1.1875,0.84375 0.289062,0.367187 0.515625,0.84375 0.671875,1.4375 L 7.5625,-6.015625 C 7.4375,-6.460938 7.273438,-6.8125 7.078125,-7.0625 6.878906,-7.320312 6.597656,-7.523438 6.234375,-7.671875 5.878906,-7.828125 5.476562,-7.90625 5.03125,-7.90625 c -0.53125,0 -0.992188,0.085938 -1.375,0.25 -0.386719,0.15625 -0.699219,0.367188 -0.9375,0.625 -0.230469,0.261719 -0.414062,0.554688 -0.546875,0.875 -0.21875,0.53125 -0.328125,1.117188 -0.328125,1.75 0,0.78125 0.132812,1.4375 0.40625,1.96875 0.269531,0.523438 0.660156,0.914062 1.171875,1.171875 0.507813,0.25 1.050781,0.375 1.625,0.375 0.507813,0 1,-0.09375 1.46875,-0.28125 0.476563,-0.195313 0.84375,-0.40625 1.09375,-0.625 V -3.4375 Z m 0,0"
+           id="path65"
+           inkscape:connector-curvature="0" />
+      </symbol>
+    </g>
+  </defs>
+  <g
+     id="surface315"
+     transform="translate(-67.4375,-70.121094)">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 67.4375,70.121094 H 68.625 V 326.01172 h -1.1875 z m 0,0"
+       id="path72"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 84.417969,70.121094 h 1.1875 V 326.01172 h -1.1875 z m 0,0"
+       id="path74"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 101.39844,70.121094 h 1.1875 V 326.01172 h -1.1875 z m 0,0"
+       id="path76"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 118.375,70.121094 h 1.19141 V 326.01172 H 118.375 Z m 0,0"
+       id="path78"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 135.35547,70.121094 h 1.1914 V 326.01172 h -1.1914 z m 0,0"
+       id="path80"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 152.33594,70.121094 h 1.1875 V 326.01172 h -1.1875 z m 0,0"
+       id="path82"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 169.31641,70.121094 h 1.1875 V 326.01172 h -1.1875 z m 0,0"
+       id="path84"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 186.29687,70.121094 h 1.1875 V 326.01172 h -1.1875 z m 0,0"
+       id="path86"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 203.27734,70.121094 h 1.1875 V 326.01172 h -1.1875 z m 0,0"
+       id="path88"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 220.25781,70.121094 h 1.1875 V 326.01172 h -1.1875 z m 0,0"
+       id="path90"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 237.23828,70.121094 h 1.1875 V 326.01172 h -1.1875 z m 0,0"
+       id="path92"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 254.21484,70.121094 h 1.19141 V 326.01172 h -1.19141 z m 0,0"
+       id="path94"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 271.19531,70.121094 h 1.19141 V 326.01172 h -1.19141 z m 0,0"
+       id="path96"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 288.17578,70.121094 h 1.19141 V 326.01172 h -1.19141 z m 0,0"
+       id="path98"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 305.15625,70.121094 h 1.1875 V 326.01172 h -1.1875 z m 0,0"
+       id="path100"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 322.13672,70.121094 h 1.1875 V 326.01172 h -1.1875 z m 0,0"
+       id="path102"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,70.121094 h 255.88672 v 1.1875 H 67.4375 Z m 0,0"
+       id="path104"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,87.101562 h 255.88672 v 1.1875 H 67.4375 Z m 0,0"
+       id="path106"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,104.08203 h 255.88672 v 1.1875 H 67.4375 Z m 0,0"
+       id="path108"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 67.4375,121.0625 H 323.32422 V 122.25 H 67.4375 Z m 0,0"
+       id="path110"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,138.04297 h 255.88672 v 1.1875 H 67.4375 Z m 0,0"
+       id="path112"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,155.02344 h 255.88672 v 1.1875 H 67.4375 Z m 0,0"
+       id="path114"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,172 h 255.88672 v 1.19141 H 67.4375 Z m 0,0"
+       id="path116"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,188.98047 h 255.88672 v 1.1914 H 67.4375 Z m 0,0"
+       id="path118"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,205.96094 h 255.88672 v 1.1914 H 67.4375 Z m 0,0"
+       id="path120"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,222.94141 h 255.88672 v 1.1875 H 67.4375 Z m 0,0"
+       id="path122"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,239.92187 h 255.88672 v 1.1875 H 67.4375 Z m 0,0"
+       id="path124"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,256.90234 h 255.88672 v 1.1875 H 67.4375 Z m 0,0"
+       id="path126"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,273.88281 h 255.88672 v 1.1875 H 67.4375 Z m 0,0"
+       id="path128"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,290.86328 h 255.88672 v 1.1875 H 67.4375 Z m 0,0"
+       id="path130"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,307.84375 h 255.88672 v 1.1875 H 67.4375 Z m 0,0"
+       id="path132"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67.4375,324.82031 h 255.88672 v 1.19141 H 67.4375 Z m 0,0"
+       id="path134"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g138">
+      <use
+         xlink:href="#glyph0-1"
+         x="72.445801"
+         y="83.677498"
+         id="use136"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g142">
+      <use
+         xlink:href="#glyph0-2"
+         x="89.425797"
+         y="83.677498"
+         id="use140"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g146">
+      <use
+         xlink:href="#glyph0-2"
+         x="106.4058"
+         y="83.677498"
+         id="use144"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g150">
+      <use
+         xlink:href="#glyph0-3"
+         x="124.065"
+         y="83.677498"
+         id="use148"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g154">
+      <use
+         xlink:href="#glyph0-4"
+         x="140.50729"
+         y="83.677498"
+         id="use152"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 153.52344,71.308594 h 15.79297 v 15.792968 h -15.79297 z m 0,0"
+       id="path156"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g160">
+      <use
+         xlink:href="#glyph0-5"
+         x="174.32581"
+         y="83.677498"
+         id="use158"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g164">
+      <use
+         xlink:href="#glyph0-3"
+         x="191.985"
+         y="83.677498"
+         id="use162"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g168">
+      <use
+         xlink:href="#glyph0-1"
+         x="208.2858"
+         y="83.677498"
+         id="use166"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g172">
+      <use
+         xlink:href="#glyph0-6"
+         x="225.6337"
+         y="83.677498"
+         id="use170"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g176">
+      <use
+         xlink:href="#glyph0-7"
+         x="242.2458"
+         y="83.677498"
+         id="use174"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 255.40625,71.308594 h 15.78906 v 15.792968 h -15.78906 z m 0,0"
+       id="path178"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g182">
+      <use
+         xlink:href="#glyph0-3"
+         x="276.88501"
+         y="83.677498"
+         id="use180"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g186">
+      <use
+         xlink:href="#glyph0-6"
+         x="293.55371"
+         y="83.677498"
+         id="use184"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g190">
+      <use
+         xlink:href="#glyph0-8"
+         x="309.8262"
+         y="83.677498"
+         id="use188"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g194">
+      <use
+         xlink:href="#glyph0-3"
+         x="73.125"
+         y="100.6575"
+         id="use192"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g198">
+      <use
+         xlink:href="#glyph0-9"
+         x="88.774902"
+         y="100.6575"
+         id="use196"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g202">
+      <use
+         xlink:href="#glyph0-10"
+         x="106.0662"
+         y="100.6575"
+         id="use200"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g206">
+      <use
+         xlink:href="#glyph0-11"
+         x="125.7913"
+         y="100.6575"
+         id="use204"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g210">
+      <use
+         xlink:href="#glyph0-7"
+         x="140.3658"
+         y="100.6575"
+         id="use208"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 153.52344,88.289062 h 15.79297 v 15.792968 h -15.79297 z m 0,0"
+       id="path212"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g216">
+      <use
+         xlink:href="#glyph0-12"
+         x="174.32581"
+         y="100.6575"
+         id="use214"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g220">
+      <use
+         xlink:href="#glyph0-7"
+         x="191.3058"
+         y="100.6575"
+         id="use218"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g224">
+      <use
+         xlink:href="#glyph0-13"
+         x="207.267"
+         y="100.6575"
+         id="use222"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g228">
+      <use
+         xlink:href="#glyph0-1"
+         x="225.26579"
+         y="100.6575"
+         id="use226"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g232">
+      <use
+         xlink:href="#glyph0-3"
+         x="242.925"
+         y="100.6575"
+         id="use230"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 255.40625,88.289062 h 15.78906 v 15.792968 h -15.78906 z m 0,0"
+       id="path234"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g238">
+      <use
+         xlink:href="#glyph0-9"
+         x="275.5549"
+         y="100.6575"
+         id="use236"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g242">
+      <use
+         xlink:href="#glyph0-14"
+         x="292.84619"
+         y="100.6575"
+         id="use240"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g246">
+      <use
+         xlink:href="#glyph0-11"
+         x="312.57129"
+         y="100.6575"
+         id="use244"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g250">
+      <use
+         xlink:href="#glyph0-15"
+         x="72.445801"
+         y="117.6375"
+         id="use248"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g254">
+      <use
+         xlink:href="#glyph0-10"
+         x="89.086197"
+         y="117.6375"
+         id="use252"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g258">
+      <use
+         xlink:href="#glyph0-16"
+         x="106.0662"
+         y="117.6375"
+         id="use256"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g262">
+      <use
+         xlink:href="#glyph0-17"
+         x="123.0462"
+         y="117.6375"
+         id="use260"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g266">
+      <use
+         xlink:href="#glyph0-5"
+         x="140.3658"
+         y="117.6375"
+         id="use264"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 153.52344,105.26953 h 15.79297 v 15.79297 h -15.79297 z m 0,0"
+       id="path268"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g272">
+      <use
+         xlink:href="#glyph0-11"
+         x="176.73129"
+         y="117.6375"
+         id="use270"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g276">
+      <use
+         xlink:href="#glyph0-18"
+         x="191.3058"
+         y="117.6375"
+         id="use274"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g280">
+      <use
+         xlink:href="#glyph0-1"
+         x="208.2858"
+         y="117.6375"
+         id="use278"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g284">
+      <use
+         xlink:href="#glyph0-17"
+         x="224.92619"
+         y="117.6375"
+         id="use282"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g288">
+      <use
+         xlink:href="#glyph0-5"
+         x="242.2458"
+         y="117.6375"
+         id="use286"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 255.40625,105.26953 h 15.78906 v 15.79297 h -15.78906 z m 0,0"
+       id="path290"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g294">
+      <use
+         xlink:href="#glyph0-13"
+         x="275.18701"
+         y="117.6375"
+         id="use292"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g298">
+      <use
+         xlink:href="#glyph0-7"
+         x="293.18579"
+         y="117.6375"
+         id="use296"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g302">
+      <use
+         xlink:href="#glyph0-5"
+         x="310.1658"
+         y="117.6375"
+         id="use300"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g306">
+      <use
+         xlink:href="#glyph0-7"
+         x="72.445801"
+         y="134.61749"
+         id="use304"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g310">
+      <use
+         xlink:href="#glyph0-16"
+         x="89.086197"
+         y="134.61749"
+         id="use308"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g314">
+      <use
+         xlink:href="#glyph0-11"
+         x="108.8113"
+         y="134.61749"
+         id="use312"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g318">
+      <use
+         xlink:href="#glyph0-7"
+         x="123.3858"
+         y="134.61749"
+         id="use316"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g322">
+      <use
+         xlink:href="#glyph0-5"
+         x="140.3658"
+         y="134.61749"
+         id="use320"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 153.52344,122.25 h 15.79297 v 15.79297 h -15.79297 z m 0,0"
+       id="path324"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g328">
+      <use
+         xlink:href="#glyph0-2"
+         x="174.32581"
+         y="134.61749"
+         id="use326"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g332">
+      <use
+         xlink:href="#glyph0-7"
+         x="191.3058"
+         y="134.61749"
+         id="use330"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g336">
+      <use
+         xlink:href="#glyph0-17"
+         x="207.9462"
+         y="134.61749"
+         id="use334"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g340">
+      <use
+         xlink:href="#glyph0-17"
+         x="224.92619"
+         y="134.61749"
+         id="use338"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g344">
+      <use
+         xlink:href="#glyph0-11"
+         x="244.65131"
+         y="134.61749"
+         id="use342"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 255.40625,122.25 h 15.78906 v 15.79297 h -15.78906 z m 0,0"
+       id="path346"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g350">
+      <use
+         xlink:href="#glyph0-15"
+         x="276.20581"
+         y="134.61749"
+         id="use348"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g354">
+      <use
+         xlink:href="#glyph0-1"
+         x="293.18579"
+         y="134.61749"
+         id="use352"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g358">
+      <use
+         xlink:href="#glyph0-2"
+         x="310.1658"
+         y="134.61749"
+         id="use356"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g362">
+      <use
+         xlink:href="#glyph0-8"
+         x="72.106201"
+         y="151.5975"
+         id="use360"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g366">
+      <use
+         xlink:href="#glyph0-11"
+         x="91.831299"
+         y="151.5975"
+         id="use364"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g370">
+      <use
+         xlink:href="#glyph0-17"
+         x="106.0662"
+         y="151.5975"
+         id="use368"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g374">
+      <use
+         xlink:href="#glyph0-17"
+         x="123.0462"
+         y="151.5975"
+         id="use372"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g378">
+      <use
+         xlink:href="#glyph0-7"
+         x="140.3658"
+         y="151.5975"
+         id="use376"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g382">
+      <use
+         xlink:href="#glyph0-16"
+         x="157.0062"
+         y="151.5975"
+         id="use380"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 170.50391,139.23047 h 15.79296 v 15.79297 h -15.79296 z m 0,0"
+       id="path384"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g388">
+      <use
+         xlink:href="#glyph0-16"
+         x="190.9662"
+         y="151.5975"
+         id="use386"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g392">
+      <use
+         xlink:href="#glyph0-1"
+         x="208.2858"
+         y="151.5975"
+         id="use390"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g396">
+      <use
+         xlink:href="#glyph0-11"
+         x="227.6713"
+         y="151.5975"
+         id="use394"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g400">
+      <use
+         xlink:href="#glyph0-17"
+         x="241.9062"
+         y="151.5975"
+         id="use398"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g404">
+      <use
+         xlink:href="#glyph0-8"
+         x="258.8862"
+         y="151.5975"
+         id="use402"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g408">
+      <use
+         xlink:href="#glyph0-1"
+         x="276.20581"
+         y="151.5975"
+         id="use406"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g412">
+      <use
+         xlink:href="#glyph0-6"
+         x="293.55371"
+         y="151.5975"
+         id="use410"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g416">
+      <use
+         xlink:href="#glyph0-7"
+         x="310.1658"
+         y="151.5975"
+         id="use414"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g420">
+      <use
+         xlink:href="#glyph0-9"
+         x="71.794899"
+         y="168.5775"
+         id="use418"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g424">
+      <use
+         xlink:href="#glyph0-17"
+         x="89.086197"
+         y="168.5775"
+         id="use422"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g428">
+      <use
+         xlink:href="#glyph0-1"
+         x="106.4058"
+         y="168.5775"
+         id="use426"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g432">
+      <use
+         xlink:href="#glyph0-5"
+         x="123.3858"
+         y="168.5775"
+         id="use430"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g436">
+      <use
+         xlink:href="#glyph0-5"
+         x="140.3658"
+         y="168.5775"
+         id="use434"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g440">
+      <use
+         xlink:href="#glyph0-11"
+         x="159.7513"
+         y="168.5775"
+         id="use438"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g444">
+      <use
+         xlink:href="#glyph0-5"
+         x="174.32581"
+         y="168.5775"
+         id="use442"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 187.48437,156.21094 h 15.79297 V 172 h -15.79297 z m 0,0"
+       id="path446"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g450">
+      <use
+         xlink:href="#glyph0-5"
+         x="208.2858"
+         y="168.5775"
+         id="use448"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g454">
+      <use
+         xlink:href="#glyph0-19"
+         x="224.92619"
+         y="168.5775"
+         id="use452"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g458">
+      <use
+         xlink:href="#glyph0-9"
+         x="241.59489"
+         y="168.5775"
+         id="use456"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g462">
+      <use
+         xlink:href="#glyph0-10"
+         x="258.8862"
+         y="168.5775"
+         id="use460"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g466">
+      <use
+         xlink:href="#glyph0-16"
+         x="275.86621"
+         y="168.5775"
+         id="use464"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g470">
+      <use
+         xlink:href="#glyph0-7"
+         x="293.18579"
+         y="168.5775"
+         id="use468"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g474">
+      <use
+         xlink:href="#glyph0-16"
+         x="309.8262"
+         y="168.5775"
+         id="use472"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 68.625,173.19141 h 15.792969 v 15.78906 H 68.625 Z m 0,0"
+       id="path476"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 85.605469,173.19141 h 15.792971 v 15.78906 H 85.605469 Z m 0,0"
+       id="path478"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 102.58594,173.19141 H 118.375 v 15.78906 h -15.78906 z m 0,0"
+       id="path480"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 119.56641,173.19141 h 15.78906 v 15.78906 h -15.78906 z m 0,0"
+       id="path482"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 136.54687,173.19141 h 15.78907 v 15.78906 h -15.78907 z m 0,0"
+       id="path484"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g488">
+      <use
+         xlink:href="#glyph0-5"
+         x="157.34579"
+         y="185.5575"
+         id="use486"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g492">
+      <use
+         xlink:href="#glyph0-1"
+         x="174.32581"
+         y="185.5575"
+         id="use490"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g496">
+      <use
+         xlink:href="#glyph0-13"
+         x="190.287"
+         y="185.5575"
+         id="use494"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 204.46484,173.19141 h 15.79297 v 15.78906 h -15.79297 z m 0,0"
+       id="path498"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 221.44531,173.19141 h 15.79297 v 15.78906 h -15.79297 z m 0,0"
+       id="path500"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g504">
+      <use
+         xlink:href="#glyph0-16"
+         x="241.9062"
+         y="185.5575"
+         id="use502"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g508">
+      <use
+         xlink:href="#glyph0-7"
+         x="259.2258"
+         y="185.5575"
+         id="use506"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g512">
+      <use
+         xlink:href="#glyph0-8"
+         x="275.86621"
+         y="185.5575"
+         id="use510"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g516">
+      <use
+         xlink:href="#glyph0-1"
+         x="293.18579"
+         y="185.5575"
+         id="use514"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g520">
+      <use
+         xlink:href="#glyph0-5"
+         x="310.1658"
+         y="185.5575"
+         id="use518"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g524">
+      <use
+         xlink:href="#glyph0-20"
+         x="70.464798"
+         y="202.53751"
+         id="use522"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g528">
+      <use
+         xlink:href="#glyph0-1"
+         x="89.425797"
+         y="202.53751"
+         id="use526"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g532">
+      <use
+         xlink:href="#glyph0-16"
+         x="106.0662"
+         y="202.53751"
+         id="use530"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g536">
+      <use
+         xlink:href="#glyph0-2"
+         x="123.3858"
+         y="202.53751"
+         id="use534"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g540">
+      <use
+         xlink:href="#glyph0-7"
+         x="140.3658"
+         y="202.53751"
+         id="use538"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g544">
+      <use
+         xlink:href="#glyph0-8"
+         x="157.0062"
+         y="202.53751"
+         id="use542"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g548">
+      <use
+         xlink:href="#glyph0-5"
+         x="174.32581"
+         y="202.53751"
+         id="use546"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g552">
+      <use
+         xlink:href="#glyph0-2"
+         x="191.3058"
+         y="202.53751"
+         id="use550"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g556">
+      <use
+         xlink:href="#glyph0-1"
+         x="208.2858"
+         y="202.53751"
+         id="use554"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g560">
+      <use
+         xlink:href="#glyph0-19"
+         x="224.92619"
+         y="202.53751"
+         id="use558"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g564">
+      <use
+         xlink:href="#glyph0-7"
+         x="242.2458"
+         y="202.53751"
+         id="use562"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g568">
+      <use
+         xlink:href="#glyph0-6"
+         x="259.59369"
+         y="202.53751"
+         id="use566"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g572">
+      <use
+         xlink:href="#glyph0-11"
+         x="278.6113"
+         y="202.53751"
+         id="use570"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g576">
+      <use
+         xlink:href="#glyph0-13"
+         x="292.16699"
+         y="202.53751"
+         id="use574"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g580">
+      <use
+         xlink:href="#glyph0-7"
+         x="310.1658"
+         y="202.53751"
+         id="use578"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g584">
+      <use
+         xlink:href="#glyph0-1"
+         x="72.445801"
+         y="219.5175"
+         id="use582"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g588">
+      <use
+         xlink:href="#glyph0-13"
+         x="88.406998"
+         y="219.5175"
+         id="use586"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g592">
+      <use
+         xlink:href="#glyph0-7"
+         x="106.4058"
+         y="219.5175"
+         id="use590"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g596">
+      <use
+         xlink:href="#glyph0-5"
+         x="123.3858"
+         y="219.5175"
+         id="use594"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g600">
+      <use
+         xlink:href="#glyph0-5"
+         x="140.3658"
+         y="219.5175"
+         id="use598"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 153.52344,207.15234 h 15.79297 v 15.78907 h -15.79297 z m 0,0"
+       id="path602"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 170.50391,207.15234 h 15.79296 v 15.78907 h -15.79296 z m 0,0"
+       id="path604"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g608">
+      <use
+         xlink:href="#glyph0-21"
+         x="190.65491"
+         y="219.5175"
+         id="use606"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g612">
+      <use
+         xlink:href="#glyph0-13"
+         x="207.267"
+         y="219.5175"
+         id="use610"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g616">
+      <use
+         xlink:href="#glyph0-1"
+         x="225.26579"
+         y="219.5175"
+         id="use614"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 238.42578,207.15234 h 15.78906 v 15.78907 h -15.78906 z m 0,0"
+       id="path618"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 255.40625,207.15234 h 15.78906 v 15.78907 h -15.78906 z m 0,0"
+       id="path620"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 272.38672,207.15234 h 15.78906 v 15.78907 h -15.78906 z m 0,0"
+       id="path622"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 289.36719,207.15234 h 15.78906 v 15.78907 h -15.78906 z m 0,0"
+       id="path624"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 306.34375,207.15234 h 15.79297 v 15.78907 h -15.79297 z m 0,0"
+       id="path626"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g630">
+      <use
+         xlink:href="#glyph0-16"
+         x="72.106201"
+         y="236.4975"
+         id="use628"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g634">
+      <use
+         xlink:href="#glyph0-9"
+         x="88.774902"
+         y="236.4975"
+         id="use632"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g638">
+      <use
+         xlink:href="#glyph0-6"
+         x="106.7737"
+         y="236.4975"
+         id="use636"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g642">
+      <use
+         xlink:href="#glyph0-1"
+         x="123.3858"
+         y="236.4975"
+         id="use640"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g646">
+      <use
+         xlink:href="#glyph0-6"
+         x="140.7337"
+         y="236.4975"
+         id="use644"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g650">
+      <use
+         xlink:href="#glyph0-7"
+         x="157.34579"
+         y="236.4975"
+         id="use648"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g654">
+      <use
+         xlink:href="#glyph0-8"
+         x="173.98621"
+         y="236.4975"
+         id="use652"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 187.48437,224.12891 h 15.79297 v 15.79296 h -15.79297 z m 0,0"
+       id="path656"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g660">
+      <use
+         xlink:href="#glyph0-2"
+         x="208.2858"
+         y="236.4975"
+         id="use658"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g664">
+      <use
+         xlink:href="#glyph0-16"
+         x="224.92619"
+         y="236.4975"
+         id="use662"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g668">
+      <use
+         xlink:href="#glyph0-9"
+         x="241.59489"
+         y="236.4975"
+         id="use666"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g672">
+      <use
+         xlink:href="#glyph0-2"
+         x="259.2258"
+         y="236.4975"
+         id="use670"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g676">
+      <use
+         xlink:href="#glyph0-13"
+         x="275.18701"
+         y="236.4975"
+         id="use674"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g680">
+      <use
+         xlink:href="#glyph0-1"
+         x="293.18579"
+         y="236.4975"
+         id="use678"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g684">
+      <use
+         xlink:href="#glyph0-17"
+         x="309.8262"
+         y="236.4975"
+         id="use682"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g688">
+      <use
+         xlink:href="#glyph0-19"
+         x="72.106201"
+         y="253.47749"
+         id="use686"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g692">
+      <use
+         xlink:href="#glyph0-16"
+         x="89.086197"
+         y="253.47749"
+         id="use690"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g696">
+      <use
+         xlink:href="#glyph0-1"
+         x="106.4058"
+         y="253.47749"
+         id="use694"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g700">
+      <use
+         xlink:href="#glyph0-6"
+         x="123.7537"
+         y="253.47749"
+         id="use698"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g704">
+      <use
+         xlink:href="#glyph0-7"
+         x="140.3658"
+         y="253.47749"
+         id="use702"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g708">
+      <use
+         xlink:href="#glyph0-16"
+         x="157.0062"
+         y="253.47749"
+         id="use706"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g712">
+      <use
+         xlink:href="#glyph0-7"
+         x="174.32581"
+         y="253.47749"
+         id="use710"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g716">
+      <use
+         xlink:href="#glyph0-8"
+         x="190.9662"
+         y="253.47749"
+         id="use714"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 204.46484,241.10937 h 15.79297 v 15.79297 h -15.79297 z m 0,0"
+       id="path718"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g722">
+      <use
+         xlink:href="#glyph0-5"
+         x="225.26579"
+         y="253.47749"
+         id="use720"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g726">
+      <use
+         xlink:href="#glyph0-2"
+         x="242.2458"
+         y="253.47749"
+         id="use724"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g730">
+      <use
+         xlink:href="#glyph0-3"
+         x="259.905"
+         y="253.47749"
+         id="use728"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g734">
+      <use
+         xlink:href="#glyph0-11"
+         x="278.6113"
+         y="253.47749"
+         id="use732"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g738">
+      <use
+         xlink:href="#glyph0-19"
+         x="292.84619"
+         y="253.47749"
+         id="use736"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g742">
+      <use
+         xlink:href="#glyph0-7"
+         x="310.1658"
+         y="253.47749"
+         id="use740"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g746">
+      <use
+         xlink:href="#glyph0-16"
+         x="72.106201"
+         y="270.45749"
+         id="use744"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g750">
+      <use
+         xlink:href="#glyph0-7"
+         x="89.425797"
+         y="270.45749"
+         id="use748"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g754">
+      <use
+         xlink:href="#glyph0-11"
+         x="108.8113"
+         y="270.45749"
+         id="use752"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 119.56641,258.08984 h 15.78906 v 15.79297 h -15.78906 z m 0,0"
+       id="path756"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g760">
+      <use
+         xlink:href="#glyph0-7"
+         x="140.3658"
+         y="270.45749"
+         id="use758"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g764">
+      <use
+         xlink:href="#glyph0-13"
+         x="156.327"
+         y="270.45749"
+         id="use762"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g768">
+      <use
+         xlink:href="#glyph0-1"
+         x="174.32581"
+         y="270.45749"
+         id="use766"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g772">
+      <use
+         xlink:href="#glyph0-11"
+         x="193.7113"
+         y="270.45749"
+         id="use770"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g776">
+      <use
+         xlink:href="#glyph0-3"
+         x="208.965"
+         y="270.45749"
+         id="use774"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 221.44531,258.08984 h 15.79297 v 15.79297 h -15.79297 z m 0,0"
+       id="path778"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g782">
+      <use
+         xlink:href="#glyph0-6"
+         x="242.61369"
+         y="270.45749"
+         id="use780"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g786">
+      <use
+         xlink:href="#glyph0-1"
+         x="259.2258"
+         y="270.45749"
+         id="use784"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g790">
+      <use
+         xlink:href="#glyph0-3"
+         x="276.88501"
+         y="270.45749"
+         id="use788"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g794">
+      <use
+         xlink:href="#glyph0-19"
+         x="292.84619"
+         y="270.45749"
+         id="use792"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g798">
+      <use
+         xlink:href="#glyph0-5"
+         x="310.1658"
+         y="270.45749"
+         id="use796"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g802">
+      <use
+         xlink:href="#glyph0-11"
+         x="74.851303"
+         y="287.4375"
+         id="use800"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g806">
+      <use
+         xlink:href="#glyph0-6"
+         x="89.793701"
+         y="287.4375"
+         id="use804"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g810">
+      <use
+         xlink:href="#glyph0-17"
+         x="106.0662"
+         y="287.4375"
+         id="use808"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 119.56641,275.07031 h 15.78906 v 15.79297 h -15.78906 z m 0,0"
+       id="path812"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g816">
+      <use
+         xlink:href="#glyph0-13"
+         x="139.347"
+         y="287.4375"
+         id="use814"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g820">
+      <use
+         xlink:href="#glyph0-11"
+         x="159.7513"
+         y="287.4375"
+         id="use818"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g824">
+      <use
+         xlink:href="#glyph0-17"
+         x="173.98621"
+         y="287.4375"
+         id="use822"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g828">
+      <use
+         xlink:href="#glyph0-19"
+         x="190.9662"
+         y="287.4375"
+         id="use826"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g832">
+      <use
+         xlink:href="#glyph0-7"
+         x="208.2858"
+         y="287.4375"
+         id="use830"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 221.44531,275.07031 h 15.79297 v 15.79297 h -15.79297 z m 0,0"
+       id="path834"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g838">
+      <use
+         xlink:href="#glyph0-5"
+         x="242.2458"
+         y="287.4375"
+         id="use836"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g842">
+      <use
+         xlink:href="#glyph0-19"
+         x="258.8862"
+         y="287.4375"
+         id="use840"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g846">
+      <use
+         xlink:href="#glyph0-9"
+         x="275.5549"
+         y="287.4375"
+         id="use844"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g850">
+      <use
+         xlink:href="#glyph0-10"
+         x="292.84619"
+         y="287.4375"
+         id="use848"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g854">
+      <use
+         xlink:href="#glyph0-6"
+         x="310.53369"
+         y="287.4375"
+         id="use852"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g858">
+      <use
+         xlink:href="#glyph0-7"
+         x="72.445801"
+         y="304.41751"
+         id="use856"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g862">
+      <use
+         xlink:href="#glyph0-6"
+         x="89.793701"
+         y="304.41751"
+         id="use860"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g866">
+      <use
+         xlink:href="#glyph0-7"
+         x="106.4058"
+         y="304.41751"
+         id="use864"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 119.56641,292.05078 h 15.78906 v 15.79297 h -15.78906 z m 0,0"
+       id="path868"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g872">
+      <use
+         xlink:href="#glyph0-7"
+         x="140.3658"
+         y="304.41751"
+         id="use870"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g876">
+      <use
+         xlink:href="#glyph0-17"
+         x="157.0062"
+         y="304.41751"
+         id="use874"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g880">
+      <use
+         xlink:href="#glyph0-17"
+         x="173.98621"
+         y="304.41751"
+         id="use878"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g884">
+      <use
+         xlink:href="#glyph0-7"
+         x="191.3058"
+         y="304.41751"
+         id="use882"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g888">
+      <use
+         xlink:href="#glyph0-5"
+         x="208.2858"
+         y="304.41751"
+         id="use886"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 221.44531,292.05078 h 15.79297 v 15.79297 h -15.79297 z m 0,0"
+       id="path890"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g894">
+      <use
+         xlink:href="#glyph0-6"
+         x="242.61369"
+         y="304.41751"
+         id="use892"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g898">
+      <use
+         xlink:href="#glyph0-7"
+         x="259.2258"
+         y="304.41751"
+         id="use896"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g902">
+      <use
+         xlink:href="#glyph0-16"
+         x="275.86621"
+         y="304.41751"
+         id="use900"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g906">
+      <use
+         xlink:href="#glyph0-5"
+         x="293.18579"
+         y="304.41751"
+         id="use904"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g910">
+      <use
+         xlink:href="#glyph0-7"
+         x="310.1658"
+         y="304.41751"
+         id="use908"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g914">
+      <use
+         xlink:href="#glyph0-5"
+         x="72.445801"
+         y="321.39749"
+         id="use912"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g918">
+      <use
+         xlink:href="#glyph0-11"
+         x="91.831299"
+         y="321.39749"
+         id="use916"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g922">
+      <use
+         xlink:href="#glyph0-16"
+         x="106.0662"
+         y="321.39749"
+         id="use920"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 119.56641,309.03125 h 15.78906 v 15.78906 h -15.78906 z m 0,0"
+       id="path924"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g928">
+      <use
+         xlink:href="#glyph0-8"
+         x="140.0262"
+         y="321.39749"
+         id="use926"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g932">
+      <use
+         xlink:href="#glyph0-7"
+         x="157.34579"
+         y="321.39749"
+         id="use930"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g936">
+      <use
+         xlink:href="#glyph0-1"
+         x="174.32581"
+         y="321.39749"
+         id="use934"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g940">
+      <use
+         xlink:href="#glyph0-16"
+         x="190.9662"
+         y="321.39749"
+         id="use938"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g944">
+      <use
+         xlink:href="#glyph0-5"
+         x="208.2858"
+         y="321.39749"
+         id="use942"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 221.44531,309.03125 h 15.79297 v 15.78906 h -15.79297 z m 0,0"
+       id="path946"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g950">
+      <use
+         xlink:href="#glyph0-9"
+         x="241.59489"
+         y="321.39749"
+         id="use948"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g954">
+      <use
+         xlink:href="#glyph0-16"
+         x="258.8862"
+         y="321.39749"
+         id="use952"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g958">
+      <use
+         xlink:href="#glyph0-8"
+         x="275.86621"
+         y="321.39749"
+         id="use956"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g962">
+      <use
+         xlink:href="#glyph0-7"
+         x="293.18579"
+         y="321.39749"
+         id="use960"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g966">
+      <use
+         xlink:href="#glyph0-16"
+         x="309.8262"
+         y="321.39749"
+         id="use964"
+         width="100%"
+         height="100%" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0.85720373,0,0,0.85720373,-213.9361,-59.949112)"
+     id="g13736">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.35839999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 407.51953,120.04297 c 0,-5.03906 -4.08594,-9.125 -9.125,-9.125 -5.04297,0 -9.12891,4.08594 -9.12891,9.125 0,5.03906 4.08594,9.125 9.12891,9.125 5.03906,0 9.125,-4.08594 9.125,-9.125 z m 0,0"
+       id="path5952"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.35839999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 328.50781,159.55078 c 0,-5.04297 -4.08984,-9.1289 -9.1289,-9.1289 -5.03907,0 -9.125,4.08593 -9.125,9.1289 0,5.03906 4.08593,9.125 9.125,9.125 5.03906,0 9.1289,-4.08594 9.1289,-9.125 z m 0,0"
+       id="path5990"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.35839999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 486.53516,179.30469 c 0,-5.04297 -4.08985,-9.12891 -9.12891,-9.12891 -5.03906,0 -9.125,4.08594 -9.125,9.12891 0,5.03906 4.08594,9.125 9.125,9.125 5.03906,0 9.12891,-4.08594 9.12891,-9.125 z m 0,0"
+       id="path6032"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.35839999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 328.50781,258.31641 c 0,-5.03907 -4.08984,-9.125 -9.1289,-9.125 -5.03907,0 -9.125,4.08593 -9.125,9.125 0,5.03906 4.08593,9.1289 9.125,9.1289 5.03906,0 9.1289,-4.08984 9.1289,-9.1289 z m 0,0"
+       id="path6140"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.35839999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 486.53516,278.07031 c 0,-5.03906 -4.08985,-9.125 -9.12891,-9.125 -5.03906,0 -9.125,4.08594 -9.125,9.125 0,5.03906 4.08594,9.125 9.125,9.125 5.03906,0 9.12891,-4.08594 9.12891,-9.125 z m 0,0"
+       id="path6212"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.35839999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 407.51953,317.57813 c 0,-5.04297 -4.08594,-9.12891 -9.125,-9.12891 -5.04297,0 -9.12891,4.08594 -9.12891,9.12891 0,5.03906 4.08594,9.12499 9.12891,9.12499 5.03906,0 9.125,-4.08593 9.125,-9.12499 z m 0,0"
+       id="path6256"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -1,0 +1,57 @@
+\documentclass{puzz}
+\usepackage{tikz}
+
+\begin{document}
+
+\puzztitle{Puzzle 2: Master Mind}
+
+\centering
+
+\begin{tikzpicture}
+    \filldraw[fill=black] (0, 0) circle (1cm) node [color=white] {Black};
+    \filldraw[fill=black] (3, 0) circle (1cm) node [color=white] {Black};
+    \filldraw[fill=green] (6, 0) circle (1cm) node [color=black] {Green};
+    \filldraw[fill=green] (9, 0) circle (1cm) node [color=black] {Green};
+    %\filldraw[fill=black] (12, 0.5) circle (0.4cm);
+                         %(12, -0.5) circle (0.4cm)
+                         %(13, 0.5) circle (0.4cm)
+                         %(13, -0.5) circle (0.4cm);
+
+    \filldraw[fill=white] (0, -3) circle (1cm) node [color=black] {White};
+    \filldraw[fill=blue] (3, -3) circle (1cm) node [color=white] {Blue};
+    \filldraw[fill=white] (6, -3) circle (1cm) node [color=black] {White};
+    \filldraw[fill=yellow] (9, -3) circle (1cm) node [color=black] {Yellow};
+    \filldraw[fill=black] (12, -2.5) circle (0.4cm);
+    \filldraw[fill=white]% (12, -3.5) circle (0.4cm);
+                          (13, -2.5) circle (0.4cm);
+                         %(13, -3.5) circle (0.4cm);
+
+    \filldraw[fill=yellow] (0, -6) circle (1cm) node [color=black] {Yellow};
+    \filldraw[fill=red] (3, -6) circle (1cm) node [color=white] {Red};
+    \filldraw[fill=white] (6, -6) circle (1cm) node [color=black] {White};
+    \filldraw[fill=red] (9, -6) circle (1cm) node [color=white] {Red};
+    \filldraw[fill=black] (12, -5.5) circle (0.4cm);
+                         %(12, -6.5) circle (0.4cm)
+    \filldraw[fill=white] (13, -5.5) circle (0.4cm);
+                         %(13, -6.5) circle (0.4cm);
+
+    \filldraw[fill=white] (0, -9) circle (1cm) node [color=black] {White};
+    \filldraw[fill=red] (3, -9) circle (1cm) node [color=white] {Red};
+    \filldraw[fill=blue] (6, -9) circle (1cm) node [color=white] {Blue};
+    \filldraw[fill=blue] (9, -9) circle (1cm) node [color=white] {Blue};
+    \filldraw[fill=black] (12, -8.5) circle (0.4cm)
+                         (13, -8.5) circle (0.4cm);
+    \filldraw[fill=white] (12, -9.5) circle (0.4cm);
+                         %(13, -9.5) circle (0.4cm);
+
+    \draw (0, -12) node {\huge ?};
+    \draw (3, -12) node {\huge ?};
+    \draw (6, -12) node {\huge ?};
+    \draw (9, -12) node {\huge ?};
+    \filldraw[fill=black] (12, -11.5) circle (0.4cm)
+                         (12, -12.5) circle (0.4cm)
+                         (13, -11.5) circle (0.4cm)
+                         (13, -12.5) circle (0.4cm);
+\end{tikzpicture}
+
+\end{document}
